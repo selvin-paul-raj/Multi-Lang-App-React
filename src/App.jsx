@@ -8,7 +8,7 @@ function App() {
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
   };
-
+//languages lists
   const languages = [
     { code: 'en', label: 'English' },
     { code: 'ta', label: 'தமிழ்' },
